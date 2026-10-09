@@ -6,7 +6,8 @@ Meu trabalho junta educação, tecnologia e automação de processos, e meu obje
 
 🌐 **Portfólio completo:** [halker11.github.io](https://halker11.github.io)  
 💼 **LinkedIn:** [linkedin.com/in/silviasilva0909](https://www.linkedin.com/in/silviasilva0909)  
-✉️ **E-mail:** [silvia.silva0909@gmail.com](mailto:silvia.silva0909@gmail.com)
+✉️ **E-mail:** [silvia.silva0909@gmail.com](mailto:silvia.silva0909@gmail.com)  
+📱 **Telefone / WhatsApp:** [(41) 99589-3031](https://wa.me/5541995893031)
 
 ---
 
