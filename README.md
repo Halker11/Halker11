@@ -23,7 +23,7 @@ Estou aberta a vagas de desenvolvimento full stack.
 | **Fluxo de revisão com IA** | Cotejo de livros x originais, marcação de PDFs no padrão Acrobat, planilhas de erros e auditorias automatizadas, sempre com conferência humana. | Python · IA generativa |
 | **[marcador-pdf](https://github.com/Halker11/marcador-pdf)** (código aberto) | Biblioteca que grava marcações de revisão em PDF do jeito que o Adobe Acrobat grava: riscar, substituir, inserir e comentar, a partir de uma lista de correções. Feita por engenharia reversa das anotações do Acrobat. [Página do projeto](https://halker11.github.io/marcador-pdf.html) | Python · PyMuPDF |
 | **Closet App** | PWA de guarda-roupa com IA: cadastro de roupas por foto, sugestão de looks conforme a ocasião e o clima, e montagem de mala de viagem. | Next.js · Prisma · MongoDB · Clean Architecture |
-| **Biblioteca pessoal** | Acervo, histórico de leitura, localização na estante e lista de desejos. | React · Hono · MongoDB |
+| **Biblioteca pessoal** | Acervo, histórico de leitura, localização na estante e lista de desejos. | Next.js · Prisma · PostgreSQL |
 | **Atendente de WhatsApp** | Protótipo de atendimento automático multi-empresa que tira dúvidas, coleta dados do pedido e organiza tudo num painel. | Python · LLM (Groq) · MongoDB |
 | **[Transcritor de áudios](https://github.com/Halker11/transcritor)** (código aberto) | Bot que transforma áudios do WhatsApp em texto e resume os longos. Funciona pelo menu Compartilhar no Android e no iPhone. | Python · Whisper (Groq) |
 
