@@ -23,7 +23,7 @@ Meu trabalho junta educação, tecnologia e automação de processos, e meu obje
 | **Closet App** | PWA de guarda-roupa com IA: cadastro de roupas por foto, sugestão de looks conforme a ocasião e o clima, e montagem de mala de viagem. | Next.js · Prisma · MongoDB · Clean Architecture |
 | **Biblioteca pessoal** | Acervo, histórico de leitura, localização na estante e lista de desejos. | React · Hono · MongoDB |
 | **Atendente de WhatsApp** | Protótipo de atendimento automático multi-empresa que tira dúvidas, coleta dados do pedido e organiza tudo num painel. | Python · LLM (Groq) · MongoDB |
-| **Transcritor de áudios** | Bot que transforma áudios do WhatsApp em texto e resume os longos. Funciona pelo menu Compartilhar no Android e no iPhone. | Python · Whisper (Groq) |
+| **[Transcritor de áudios](https://github.com/Halker11/transcritor)** (código aberto) | Bot que transforma áudios do WhatsApp em texto e resume os longos. Funciona pelo menu Compartilhar no Android e no iPhone. | Python · Whisper (Groq) |
 
 > Boa parte desses projetos é de clientes ou de uso interno, por isso o código fica privado. Posso apresentar em entrevista.
 
