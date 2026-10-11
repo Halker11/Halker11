@@ -15,13 +15,13 @@ Meu trabalho junta educação, tecnologia e automação de processos, e meu obje
 
 | Projeto | O que faz | Stack |
 |---|---|---|
-| **TVB System** | Sistema web de gestão para uma instituição (voluntário), usado por mais de 300 pessoas. Tem cadastro, chamada por QR Code, PDV, estoque, financeiro, cursos e certificados, além de integração contábil com o Cordilheira (EBS). | TypeScript · Next.js · MongoDB |
+| **[TVB System](https://halker11.github.io/tvb-system.html)** | Sistema web de gestão para uma instituição (voluntário), usado por mais de 300 pessoas. Tem cadastro, chamada por QR Code, PDV, estoque, financeiro, cursos e certificados, além de integração contábil com o Cordilheira (EBS). [Estudo de caso](https://halker11.github.io/tvb-system.html) | TypeScript · Next.js · MongoDB |
 | **[FinanSilva](https://halker11.github.io/finansilva.html)** | PWA de finanças da casa: lê contas e cartões pelo Open Finance e junta saldo, dívidas, orçamento e previsão do mês. Atende várias casas com os dados isolados em três camadas, entrada por biometria, IA opcional (Groq) que sugere categorias e resume o mês sem fazer conta, modo opcional de divisão das despesas e mais de cem arquivos de teste. [Estudo de caso](https://halker11.github.io/finansilva.html) · [site do app](https://finansilva.vercel.app) | TypeScript · Next.js · Prisma · MongoDB · Clean Architecture |
 | **[GParts Soluções Digitais](https://gparts.vercel.app)** | Site da minha empresa, que faz sites, sistemas e atendimento automático no WhatsApp para pequenos negócios. Criei a marca, o sistema de design e o site. | React · Vite · Vercel |
 | **[Ágil Bandeiras](https://agilbandeiras.vercel.app)** | Site de uma fábrica de wind flags de Curitiba (cliente): catálogo, calculadora de preço e pedido de orçamento pelo WhatsApp. | HTML · CSS · JavaScript |
 | **Automação editorial** | Lê documentos DOCX de livros didáticos, identifica as orientações de imagem, sugere imagens de banco via API e gera o documento final. | TypeScript · Python · APIs |
 | **Fluxo de revisão com IA** | Cotejo de livros x originais, marcação de PDFs no padrão Acrobat, planilhas de erros e auditorias automatizadas, sempre com conferência humana. | Python · IA generativa |
-| **[marcador-pdf](https://github.com/Halker11/marcador-pdf)** (código aberto) | Biblioteca que grava marcações de revisão em PDF do jeito que o Adobe Acrobat grava: riscar, substituir, inserir e comentar, a partir de uma lista de correções. Feita por engenharia reversa das anotações do Acrobat. | Python · PyMuPDF |
+| **[marcador-pdf](https://github.com/Halker11/marcador-pdf)** (código aberto) | Biblioteca que grava marcações de revisão em PDF do jeito que o Adobe Acrobat grava: riscar, substituir, inserir e comentar, a partir de uma lista de correções. Feita por engenharia reversa das anotações do Acrobat. [Página do projeto](https://halker11.github.io/marcador-pdf.html) | Python · PyMuPDF |
 | **Closet App** | PWA de guarda-roupa com IA: cadastro de roupas por foto, sugestão de looks conforme a ocasião e o clima, e montagem de mala de viagem. | Next.js · Prisma · MongoDB · Clean Architecture |
 | **Biblioteca pessoal** | Acervo, histórico de leitura, localização na estante e lista de desejos. | React · Hono · MongoDB |
 | **Atendente de WhatsApp** | Protótipo de atendimento automático multi-empresa que tira dúvidas, coleta dados do pedido e organiza tudo num painel. | Python · LLM (Groq) · MongoDB |
@@ -38,6 +38,8 @@ Meu trabalho junta educação, tecnologia e automação de processos, e meu obje
 - **Idealizadora do Buggy Guindaste** (Microduino do Brasil), um produto de robótica educacional.
 - **"Meninas na robótica, delas pra elas"**: projeto vencedor da Feira de Ciências da PUCPR, que virou bolsa PIBIC Jr.
 - **Extensão na UFPR** com prototipagem eletrônica (Arduino) para meninas da Educação Básica do litoral do Paraná.
+
+Mais em [Educação e robótica](https://halker11.github.io/educacao.html) e na [Trajetória](https://halker11.github.io/trajetoria.html).
 
 ## 🏭 Indústria
 
