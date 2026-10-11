@@ -1,8 +1,8 @@
 # Olá, eu sou a Silvia 👋
 
-Professora de robótica, autora e revisora de livros didáticos, e desenvolvedora.
-Estudo **Física (UFPR)**, **Engenharia de Controle e Automação (FMU)** e **Análise e Desenvolvimento de Sistemas (FAC)**.
-Meu trabalho junta educação, tecnologia e automação de processos, e meu objetivo é atuar numa **EdTech**.
+**Desenvolvedora full stack**, de Curitiba. Construo sistemas web e automações em **TypeScript**, **Python** e **MongoDB**: sistemas em produção, feitos para quem não é técnico.
+Antes do código, oito anos ensinando robótica e escrevendo livros didáticos. Estudo **Física (UFPR)**, **Engenharia de Controle e Automação (FMU)** e **Análise e Desenvolvimento de Sistemas (FAC)**.
+Estou aberta a vagas de desenvolvimento full stack.
 
 🌐 **Portfólio completo:** [halker11.github.io](https://halker11.github.io)  
 💼 **LinkedIn:** [linkedin.com/in/silviasilva0909](https://www.linkedin.com/in/silviasilva0909)  
